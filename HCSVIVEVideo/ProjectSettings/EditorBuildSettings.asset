@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Start_marker.unity
+    guid: 3540d578b8d6bb14f80a24584b57dcd8
+  - enabled: 1
+    path: Assets/Scenes/others/BuildWhitte.unity
+    guid: 5eb5cfc9908844d4eb76ef5ccdd09da1
+  - enabled: 1
+    path: Assets/Scenes/Pilot/StartBurrus.unity
+    guid: 4323dba9ddafdca428a306a94ce9b6b4
+  - enabled: 1
+    path: Assets/Scenes/Pilot/360Burrus.unity
+    guid: 027db57f66c46ad49bdd87e40584145b
+  - enabled: 1
+    path: Assets/Scenes/Pilot/BuildBurrus.unity
+    guid: 71088e64901247f4a94824f4bb14000b
+  - enabled: 1
+    path: Assets/Scenes/Pilot/StartCassell.unity
+    guid: 73a39417bd03c3c45a533477592a1f34
+  - enabled: 1
+    path: Assets/Scenes/Pilot/BuildCassell.unity
+    guid: 28fe8e702e478f14b847a13c5eb1b2ce
+  - enabled: 1
+    path: Assets/Scenes/Pilot/360Cassell.unity
+    guid: 30ee553413bf0c849966a814156665f3
+  - enabled: 1
+    path: Assets/Scenes/Pilot/StartGoodwin.unity
+    guid: 82bd17ef54ce9c1459b6f48561680c49
+  - enabled: 1
+    path: Assets/Scenes/Pilot/BuildGoodwin.unity
+    guid: 97abaebe8a3ebe248ba1e9973cd14b41
+  - enabled: 1
+    path: Assets/Scenes/Pilot/360G2.unity
+    guid: 055667054a338014fa43ce0d8aadfd15
+  - enabled: 1
+    path: Assets/Scenes/Pilot/360G1.unity
+    guid: 3438287e19970c24890aef0229cf6a6f
+  - enabled: 1
+    path: Assets/Scenes/Pilot/360G3.unity
+    guid: 3e200eeaaa193764c950e035efcb70e0
+  - enabled: 1
+    path: Assets/Scenes/Pilot/360G4.unity
+    guid: 5b8868442cec47a4dbeb3ac7bed6b26b
+  m_configObjects: {}
