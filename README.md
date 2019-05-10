@@ -8,14 +8,14 @@ Video (click to view):
 
 Bird's eye view of three buildings.
 
-![Campus bird's eye view](/example/giphy(1).gif)
-![Campus bird's eye view](/example/giphy(2).gif)
-![Campus bird's eye view](/example/giphy.gif)
+![Campus bird's eye view](/example/giphy(1).gif | width=100)
+![Campus bird's eye view](/example/giphy(2).gif | width=100)
+![Campus bird's eye view](/example/giphy.gif | width=100)
 
 Close view of different interaction options.
 
-![Campus bird's eye view](/example/text_and_ball.png)
-![Campus bird's eye view](/example/Pin_and_billboard.png)
-![Campus bird's eye view](/example/Flash_and_button.png)
+![Campus bird's eye view](/example/text_and_ball.png | width=100)
+![Campus bird's eye view](/example/Pin_and_billboard.png | width=100)
+![Campus bird's eye view](/example/Flash_and_button.png | width=100)
 
 
