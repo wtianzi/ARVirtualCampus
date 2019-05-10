@@ -14,8 +14,8 @@ Bird's eye view of three buildings.
 
 Close view of different interaction options.
 
-![Campus bird's eye view](/example/text_and_ball.png){:height="50%" width="50%"}
-![Campus bird's eye view](/example/Pin_and_billboard.png){:height="50%" width="50%"}
-![Campus bird's eye view](/example/Flash_and_button.png){:height="50%" width="50%"}
+![Campus bird's eye view](/example/text_and_ball.png)
+![Campus bird's eye view](/example/Pin_and_billboard.png)
+![Campus bird's eye view](/example/Flash_and_button.png)
 
 
